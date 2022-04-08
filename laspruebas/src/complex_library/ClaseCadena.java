@@ -1,4 +1,6 @@
-public class ClaseCadena implements Convert{
+package complex_library;
+
+public class ClaseCadena implements Convert {
 
 
     public String devuelveIniciales(String cadena) {
